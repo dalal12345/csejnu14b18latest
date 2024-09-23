@@ -1,2 +1,1 @@
-# csejnu14b18latest
-Public code of our website......
+# cse14jnu
